@@ -1,0 +1,3 @@
+mmenu-cdp/client/node_modules/@swc/core-linux-x64-musl/swc.linux-x64-musl.node filter=lfs diff=lfs merge=lfs -text
+mmenu-hrm/web/node_modules/@swc/core-linux-x64-musl/swc.linux-x64-musl.node filter=lfs diff=lfs merge=lfs -text
+mmenu-hrm/backend/node_modules/.cache/mongodb-memory-server/mongod-x64-garuda-7.0.14 filter=lfs diff=lfs merge=lfs -text
